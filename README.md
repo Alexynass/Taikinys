@@ -1,4 +1,4 @@
-//Taikinys
+//Taikinyss
 #include <iostream>
 #include <iomanip>
 #include <cmath>
